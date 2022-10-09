@@ -1,5 +1,5 @@
 # scrapping_restaurants_bordeaux
-
+<a href="https://portfolio.kevinlamarque.fr/blog/27/" target="_blank"> Scrapping </a>
 ## Analyse Sémantique de la Page WEB 
 
 ### Test des classes et des blocs 
