@@ -16,3 +16,8 @@
 ## Création des Maps
 ### Marker via les notes 
 ### Maker via les fourchettes de prix
+
+
+## Remplacement de folium par Plolty 
+
+https://portfolio.kevinlamarque.fr/post/app/restaurant/
